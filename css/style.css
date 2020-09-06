@@ -1,0 +1,33 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+.total_social_menu{
+	width:550px;
+	margin:0 auto;
+	text-align:center;
+	margin-top:40vh;
+}
+.social_icons i {
+    padding: 20px;
+    background: #1e5174;
+    margin-left: 5px;
+    font-size: 25px;
+    color: white;
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    line-height: 24px;
+    transition: .5s;
+}
+.social_icons i:hover{
+	background:orange;
+	transition: .5s;
+}
+
+.social_text {
+    margin-bottom: 30px;
+    color: #666666;
+    text-align: center;
+}
